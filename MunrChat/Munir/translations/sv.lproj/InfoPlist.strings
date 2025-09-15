@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Munir's måste använda Apple Music för att spela mediebilagor.";
+NSCameraUsageDescription = "Munir's använder din kamera för att ta foton och för videosamtal.";
+NSContactsUsageDescription = "Munir's använder dina kontakter för att hitta användare du känner. Vi lagrar inte dina kontakter på servern.";
+NSFaceIDUsageDescription = "Munir'ss skärmlås använder Face ID.";
+NSLocationWhenInUseUsageDescription = "Munir's behöver åtkomst till din plats för att dela din nuvarande plats.";
+NSMicrophoneUsageDescription = "Munir's behöver åtkomst till din mikrofon för att ringa och ta emot telefonsamtal och spela in röstmeddelanden.";
+NSPhotoLibraryAddUsageDescription = "Munir's sparar foton till ditt bibliotek.";
+NSPhotoLibraryUsageDescription = "Med Munir's kan du välja vilka foton från ditt bibliotek du vill skicka.";
+NSLocalNetworkUsageDescription = "Munir's använder det lokala nätverket för att låta dig direkt överföra ditt konto till en ny telefon. Den kommer inte att användas om du inte uttryckligen väljer att initiera en överföring till en ny enhet.";

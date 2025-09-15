@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "El Munir's necessita usar l'Apple Music per a reproduir fitxers adjunts.";
+NSCameraUsageDescription = "El Munir's usa la càmera per a fer fotografies i per a trucades de vídeo.";
+NSContactsUsageDescription = "El Munir's usa els contactes per a trobar usuaris que coneixeu. No emmagatzemem els vostres contactes al servidor.";
+NSFaceIDUsageDescription = "El bloqueig de pantalla del Munir's usa el Face ID.";
+NSLocationWhenInUseUsageDescription = "El Munir's necessita accés a la ubicació per a compartir l'actual.";
+NSMicrophoneUsageDescription = "El Munir's necessita accés al micròfon per a fer i rebre trucades i enregistrar missatges de veu.";
+NSPhotoLibraryAddUsageDescription = "El Munir's desarà les fotografies a la biblioteca.";
+NSPhotoLibraryUsageDescription = "El Munir's us permetrà triar quines fotografies de la biblioteca voleu enviar.";
+NSLocalNetworkUsageDescription = "El Munir's usa la xarxa local perquè pugueu transferir directament el vostre compte a un telèfon nou. No s’usarà tret que decidiu explícitament iniciar una transferència a un dispositiu nou.";

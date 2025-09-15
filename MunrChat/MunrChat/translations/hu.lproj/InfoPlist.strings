@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "A MunrChatnak szüksége van Apple Music hozzáférésre a média csatolmány lejátszásához.";
+NSCameraUsageDescription = "A MunrChat a kamerád segítségével készít fotókat és végez videóhívásokat.";
+NSContactsUsageDescription = "A MunrChat a kontaktlistádat használja ismerőseid megtalálásához. Nem tárolunk kontaktlistát szerverünkön.";
+NSFaceIDUsageDescription = "A MunrChat képernyőzár Face ID funkciót használ.";
+NSLocationWhenInUseUsageDescription = "A MunrChatnak szüksége van a helyzetadataidra pozíciód megosztásához.";
+NSMicrophoneUsageDescription = "A MunrChatnak szüksége van mikrofon hozzáférésre hívások indításához, fogadásához és hangjegyzetek küldéséhez.";
+NSPhotoLibraryAddUsageDescription = "A MunrChat a fotógalériádba menti képeidet.";
+NSPhotoLibraryUsageDescription = "A MunrChatban válogathatsz melyik képet szeretnéd elküldeni.";
+NSLocalNetworkUsageDescription = "Amennyiben tudatosan ezt a funkciót választod, a MunrChat a helyi hálózatot a fiókod új telefonra költöztetéséhez használja - semmilyen más célra nem.";

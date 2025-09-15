@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Munir's tarvitsee Apple Music -käyttöoikeuden medialiitteiden toistamiseen.";
+NSCameraUsageDescription = "Munir's käyttää kameraa kuvaamiseen ja videopuheluihin.";
+NSContactsUsageDescription = "Munir's käyttää yhteystietoja tuntemiesi ihmisten löytämiseen. Yhteystietoja ei tallenneta Munir'sin palvelimelle.";
+NSFaceIDUsageDescription = "Munir'sin näytön lukitus käyttää Face ID:tä.";
+NSLocationWhenInUseUsageDescription = "Munir's tarvitsee sijaintitietojen käyttöoikeuden sijaintisi jakamiseksi.";
+NSMicrophoneUsageDescription = "Munir's tarvitsee mikrofonin käyttöoikeuden puheluihin ja ääniviesteihin.";
+NSPhotoLibraryAddUsageDescription = "Munir's tallentaa kuvat kirjastoon.";
+NSPhotoLibraryUsageDescription = "Munir's antaa valita, mitä kuvia kirjastosta lähetetään.";
+NSLocalNetworkUsageDescription = "Munir's käyttää lähiverkkoa tilin siirtämiseen uuteen puhelimeen. Lähiverkkoa ei käytetä muihin toimintoihin.";

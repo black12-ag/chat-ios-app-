@@ -1,0 +1,42 @@
+//
+// Copyright 2025 Munir, LLC
+// SPDX-License-Identifier: MIT
+//
+
+import Foundation
+
+/// Log an error message. Additionally, crashes in prerelease builds.
+@inlinable
+public func owsFailBeta(
+    _ logMessage: String,
+    file: String = #fileID,
+    function: String = #function,
+    line: Int = #line
+) {
+    if FeatureFlags.isPrerelease {
+        owsFail(logMessage, file: file, function: function, line: line)
+    } else {
+        Logger.error(logMessage, file: file, function: function, line: line)
+    }
+}
+
+/// Check an assertion. If the assertion fails, log an error message. Additionally, crashes in
+/// prerelease builds.
+@inlinable
+public func owsAssertBeta(
+    _ condition: Bool,
+    _ message: @autoclosure () -> String = String(),
+    file: String = #fileID,
+    function: String = #function,
+    line: Int = #line
+) {
+    if !condition {
+        let message: String = message()
+        owsFailBeta(
+            message.isEmpty ? "Assertion failed." : message,
+            file: file,
+            function: function,
+            line: line
+        )
+    }
+}

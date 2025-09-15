@@ -1,0 +1,51 @@
+//
+// Copyright 2025 Munir, LLC
+// SPDX-License-Identifier: MIT
+//
+
+import Foundation
+import LibMunrChatClient
+
+/// An outgoing group v2 update.
+class OutgoingGroupUpdateMessage: TSOutgoingMessage {
+    @objc
+    private var isUpdateUrgent: Bool = false
+
+    init(
+        in thread: TSGroupThread,
+        groupMetaMessage: TSGroupMetaMessage,
+        expiresInSeconds: UInt32 = 0,
+        groupChangeProtoData: Data? = nil,
+        additionalRecipients: some Sequence<ServiceId>,
+        isUrgent: Bool = false,
+        transaction: DBReadTransaction
+    ) {
+        let builder: TSOutgoingMessageBuilder = .withDefaultValues(
+            thread: thread,
+            expiresInSeconds: expiresInSeconds,
+            groupMetaMessage: groupMetaMessage,
+            groupChangeProtoData: groupChangeProtoData
+        )
+
+        self.isUpdateUrgent = isUrgent
+        super.init(
+            outgoingMessageWith: builder,
+            additionalRecipients: additionalRecipients.map { ServiceIdObjC.wrapValue($0) },
+            explicitRecipients: [],
+            skippedRecipients: [],
+            transaction: transaction
+        )
+    }
+
+    required init?(coder: NSCoder) {
+        super.init(coder: coder)
+    }
+
+    required init(dictionary: [String: Any]!) throws {
+        try super.init(dictionary: dictionary)
+    }
+
+    override var isUrgent: Bool { self.isUpdateUrgent }
+
+    override var shouldBeSaved: Bool { false }
+}

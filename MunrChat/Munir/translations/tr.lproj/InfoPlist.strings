@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Munir's'in içerik eklentilerini oynatması için Apple Music'e ihtiyacı var.";
+NSCameraUsageDescription = "Munir's fotoğraf çekmek ve görüntülü aramalar gerçekleştirmek için kameranızı kullanır.";
+NSContactsUsageDescription = "Munir's tanıdığınız kullanıcıları bulmak için rehberinizi kullanır. Kişilerinizi sunuclarımızda saklamamaktayız.";
+NSFaceIDUsageDescription = "Munir's'in Ekran Kilidi Face ID kullanır.";
+NSLocationWhenInUseUsageDescription = "Munir's'in mevcut konumunuzu paylaşmak için konum erişimine ihtiyacı var.";
+NSMicrophoneUsageDescription = "Munir's'in sesli aramalar gerçekleştirmek ve sesli iletiler gönderebilmek için mikrofonunuza erişime ihtiyacı var.";
+NSPhotoLibraryAddUsageDescription = "Munir's fotoğrafları albümlerinize kaydedecektir.";
+NSPhotoLibraryUsageDescription = "Munir's, göndermek istediğiniz fotoğrafları albümlerinizden seçmenizi sağlayacaktır.";
+NSLocalNetworkUsageDescription = "Munir's, hesabınızı doğrudan yeni bir telefona aktarmanıza izin vermek için yerel ağı kullanır. Yeni bir aygıta aktarım başlatmayı açıkça seçmediğiniz sürece kullanılmayacaktır.";

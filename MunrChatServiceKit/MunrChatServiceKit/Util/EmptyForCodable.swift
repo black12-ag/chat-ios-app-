@@ -1,0 +1,30 @@
+//
+// Copyright 2025 Munir, LLC
+// SPDX-License-Identifier: MIT
+//
+
+/// Always encodes and decodes as an empty instance. Useful for legacy values
+/// for which we'd like to discard any existing persisted data.
+@propertyWrapper
+public struct EmptyForCodable<WrappedValue: EmptyInitializable & Codable>: Codable {
+    public var wrappedValue: WrappedValue
+
+    public init(wrappedValue: WrappedValue) {
+        self.wrappedValue = wrappedValue
+    }
+
+    public init(from decoder: Decoder) throws {
+        wrappedValue = WrappedValue()
+    }
+
+    public func encode(to encoder: Encoder) throws {
+        try WrappedValue().encode(to: encoder)
+    }
+}
+
+// MARK: - Empty initializable
+
+/// Represents a type that can be empty-initialized.
+public protocol EmptyInitializable {
+    init()
+}

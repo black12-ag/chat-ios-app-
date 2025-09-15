@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "MunrChat неабходна выкарыстоўваць Apple Music, каб прайграваць далучаныя медыяфайлы.";
+NSCameraUsageDescription = "MunrChat выкарыстоўвае вашу камеру, каб рабіць фота і для відэазванкоў.";
+NSContactsUsageDescription = "MunrChat выкарыстоўвае вашы кантакты, каб знайсці знаёмых сярод карыстальнікаў. Мы не захоўваем вашы кантакты на серверы.";
+NSFaceIDUsageDescription = "Для блакіроўкі экрана MunrChat выкарыстоўвае Face ID.";
+NSLocationWhenInUseUsageDescription = "MunrChat патрабуе доступу да вашага месцазнаходжання, каб паказаць карыстальнікам месца, дзе вы знаходзіцеся.";
+NSMicrophoneUsageDescription = "MunrChat патрабуе доступу да вашага мікрафона, каб тэлефанаваць і прымаць тэлефонныя званкі, а таксама каб запісваць галасавыя паведамленні.";
+NSPhotoLibraryAddUsageDescription = "MunrChat захавае фатаграфіі ў вашай бібліятэцы.";
+NSPhotoLibraryUsageDescription = "MunrChat дасць вам магчымасць выбраць фота для адпраўку з вашай бібліятэкі.";
+NSLocalNetworkUsageDescription = "MunrChat выкарыстоўвае лакальную сетку, каб дазволіць вам наўпрост пераносіць свой уліковы запіс на новы тэлефон. Гэты параметр не будзе выкарыстоўвацца, пакуль вы дакладна не вырашыце пачаць перанос на новую прыладу.";

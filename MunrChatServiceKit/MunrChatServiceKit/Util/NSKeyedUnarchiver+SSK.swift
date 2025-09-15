@@ -1,0 +1,20 @@
+//
+// Copyright 2025 Munir, LLC
+// SPDX-License-Identifier: MIT
+//
+
+import Foundation
+
+extension NSKeyedUnarchiver {
+#if TESTABLE_BUILD
+    public static func unarchivedObject<DecodedObjectType>(
+        ofClass cls: DecodedObjectType.Type,
+        from data: Data,
+        requiringSecureCoding: Bool
+    ) throws -> DecodedObjectType? where DecodedObjectType: NSObject, DecodedObjectType: NSCoding {
+        let coder = try NSKeyedUnarchiver(forReadingFrom: data)
+        coder.requiresSecureCoding = requiringSecureCoding
+        return try coder.decodeTopLevelObject(of: cls, forKey: NSKeyedArchiveRootObjectKey)
+    }
+#endif
+}

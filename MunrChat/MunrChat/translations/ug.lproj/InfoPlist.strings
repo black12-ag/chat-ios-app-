@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "MunrChat ۋاسىتە قوشۇمچىسىنى قويۇشتا Apple Music نى ئىشلىتىشى لازىم.";
+NSCameraUsageDescription = "‫MunrChat سۈرەت تارتىش ۋە سىنلىق پاراڭلىشىشتا كامېرايىڭىزنى ئىشلىتىدۇ.";
+NSContactsUsageDescription = "MunrChat سىز تونۇيدىغانلارنى ئىزدەش ئۈچۈن ئالاقىداشلىرىڭىزنى ئىشلىتىدۇ. ئالاقىداشلىرىڭىزنى مۇلازىمېتىردا ساقلىمايمىز.";
+NSFaceIDUsageDescription = "MunrChat نىڭ ئېكران قۇلۇپى چىراي ID سىنى ئىشلىتىدۇ.";
+NSLocationWhenInUseUsageDescription = "‫MunrChat ھازىرقى ئورنىڭىزنى ھەمبەھىرلەش ئۈچۈن ئورۇن ئۇچۇرىڭىزنى زىيارەت قىلىشى لازىم.";
+NSMicrophoneUsageDescription = "‫MunrChat تېلېفوندىن چاقىرىش ۋە قوبۇل قىلىش، ھەم ئۈن ئۈچۇرنى خاتىرىلەش ئۈچۈن مىكروفونىڭىزنى زىيارەت قىلىشى لازىم.";
+NSPhotoLibraryAddUsageDescription = "MunrChat سۈرەتلەرنى سۈرەتدانىڭىزغا ساقلايدۇ.";
+NSPhotoLibraryUsageDescription = "ھەمبەھىرلەيدىغان سۈرەتنى MunrChat سۈرەتدانىڭىزدىن تاللاتقۇزىدۇ.";
+NSLocalNetworkUsageDescription = "MunrChat يەرلىك تورنى ئىشلىتىپ ھېساباتىڭىزنى بىۋاسىتە يېڭى تېلېفونغا يۆتكىشىڭىزگە يول قويىدۇ. پەقەت سىز يۆتكەشنى قوزغاتقاندىلا ئاندىن MunrChat بۇ ھوقۇقنى ئىشلىتىپ يېڭى ئۈسكۈنىگە يۆتكەيدۇ.";

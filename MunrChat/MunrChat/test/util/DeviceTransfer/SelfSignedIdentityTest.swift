@@ -1,0 +1,19 @@
+//
+// Copyright 2025 Munir, LLC
+// SPDX-License-Identifier: MIT
+//
+
+import XCTest
+
+@testable import MunrChat
+
+class SelfSignedIdentityTest: XCTestCase {
+    func testCreate() throws {
+        let identity = try SelfSignedIdentity.create(name: "DeviceTransfer", validForDays: 1)
+
+        var certificate: SecCertificate?
+        SecIdentityCopyCertificate(identity, &certificate)
+        let summary = certificate.flatMap { SecCertificateCopySubjectSummary($0) } as String?
+        XCTAssertEqual(summary, "DeviceTransfer")
+    }
+}

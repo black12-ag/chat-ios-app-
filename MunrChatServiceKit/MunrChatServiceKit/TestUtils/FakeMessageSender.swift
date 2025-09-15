@@ -1,0 +1,28 @@
+//
+// Copyright 2025 Munir, LLC
+// SPDX-License-Identifier: MIT
+//
+
+import Foundation
+
+#if TESTABLE_BUILD
+
+class FakeMessageSender: MessageSender {
+    public var stubbedFailingErrors = [Error?]()
+    public var sentMessages = [TSOutgoingMessage]()
+    public var sendMessageWasCalledBlock: ((TSOutgoingMessage) -> Void)?
+
+    init(accountChecker: AccountChecker) {
+        super.init(accountChecker: accountChecker, groupSendEndorsementStore: GroupSendEndorsementStoreImpl())
+    }
+
+    override func sendMessage(_ preparedMessage: PreparedOutgoingMessage) async throws {
+        try await preparedMessage.send { message in
+            sentMessages.append(message)
+            sendMessageWasCalledBlock?(message)
+        }
+        if let stubbedFailingError = stubbedFailingErrors.removeFirst() { throw stubbedFailingError }
+    }
+}
+
+#endif

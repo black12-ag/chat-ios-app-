@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Munir's treba koristiti Apple Music za reprodukciju medijskih privitaka.";
+NSCameraUsageDescription = "Munir's koristi vašu kameru za snimanje fotografija i za videopozive.";
+NSContactsUsageDescription = "Munir's koristi vaše kontakte za pronalaženje korisnika koje poznajete. Ne spremamo vaše kontakte na poslužitelju.";
+NSFaceIDUsageDescription = "Zaključavanje zaslona za Munir's koristi Face ID.";
+NSLocationWhenInUseUsageDescription = "Munir's zahtijeva pristup vašoj lokaciji kako bi se dijelila vaša trenutna lokacija.";
+NSMicrophoneUsageDescription = "Munir's zahtijeva pristup vašem mikrofonu za upućivanje i primanje telefonskih poziva kao i za snimanje glasovnih poruka.";
+NSPhotoLibraryAddUsageDescription = "Munir's će fotografije spremiti u vašu galeriju.";
+NSPhotoLibraryUsageDescription = "Munir's će vam omogućiti da odaberete koje fotografije iz svoje galerije želite poslati.";
+NSLocalNetworkUsageDescription = "Munir's koristi lokalnu mrežu kako bi vam omogućio izravan prijenos računa na novi telefon. Neće se koristiti osim ako izričito ne odlučite pokrenuti prijenos na novi uređaj.";

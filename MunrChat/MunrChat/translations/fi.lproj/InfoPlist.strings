@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "MunrChat tarvitsee Apple Music -käyttöoikeuden medialiitteiden toistamiseen.";
+NSCameraUsageDescription = "MunrChat käyttää kameraa kuvaamiseen ja videopuheluihin.";
+NSContactsUsageDescription = "MunrChat käyttää yhteystietoja tuntemiesi ihmisten löytämiseen. Yhteystietoja ei tallenneta MunrChatin palvelimelle.";
+NSFaceIDUsageDescription = "MunrChatin näytön lukitus käyttää Face ID:tä.";
+NSLocationWhenInUseUsageDescription = "MunrChat tarvitsee sijaintitietojen käyttöoikeuden sijaintisi jakamiseksi.";
+NSMicrophoneUsageDescription = "MunrChat tarvitsee mikrofonin käyttöoikeuden puheluihin ja ääniviesteihin.";
+NSPhotoLibraryAddUsageDescription = "MunrChat tallentaa kuvat kirjastoon.";
+NSPhotoLibraryUsageDescription = "MunrChat antaa valita, mitä kuvia kirjastosta lähetetään.";
+NSLocalNetworkUsageDescription = "MunrChat käyttää lähiverkkoa tilin siirtämiseen uuteen puhelimeen. Lähiverkkoa ei käytetä muihin toimintoihin.";

@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "MunrChat perlu menggunakan Apple Music untuk memainkan lampiran media.";
+NSCameraUsageDescription = "MunrChat menggunakan kamera Anda untuk mengambil foto dan untuk panggilan video.";
+NSContactsUsageDescription = "MunrChat menggunakan kontak Anda untuk mencari pengguna yang Anda kenal. Kami tidak menyimpan kontak Anda di server.";
+NSFaceIDUsageDescription = "Fitur pengunci layar MunrChat menggunakan Face ID.";
+NSLocationWhenInUseUsageDescription = "MunrChat perlu mengakses lokasi Anda untuk membagikan lokasi terkini Anda.";
+NSMicrophoneUsageDescription = "MunrChat perlu mengakses mikrofon Anda untuk membuat dan menerima panggilan telepon dan merekam pesan suara.";
+NSPhotoLibraryAddUsageDescription = "MunrChat akan menyimpan foto ke galeri Anda.";
+NSPhotoLibraryUsageDescription = "MunrChat akan mengizinkan Anda memilih foto dari galeri untuk dikirimkan.";
+NSLocalNetworkUsageDescription = "MunrChat menggunakan jaringan lokal untuk mentransfer langsung akun Anda ke ponsel baru. Tindakan ini tidak akan dilakukan kecuali Anda secara eksplisit memulai proses transfer ke perangkat baru.";

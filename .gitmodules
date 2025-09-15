@@ -1,0 +1,8 @@
+# Git Submodules for MunrChat iOS - Updated 2025
+
+[submodule "Pods"]
+	path = Pods
+	url = https://github.com/signalapp/Signal-Pods.git
+[submodule "MunrChatServiceKit/tests/MessageBackup/Munir-Message-Backup-Tests"]
+	path = MunrChatServiceKit/tests/MessageBackup/Munir-Message-Backup-Tests
+	url = https://github.com/signalapp/Signal-Message-Backup-Tests

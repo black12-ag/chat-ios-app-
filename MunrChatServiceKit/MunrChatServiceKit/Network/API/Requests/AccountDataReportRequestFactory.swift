@@ -1,0 +1,13 @@
+//
+// Copyright 2025 Munir, LLC
+// SPDX-License-Identifier: MIT
+//
+
+import Foundation
+
+public enum AccountDataReportRequestFactory {
+    public static func createAccountDataReportRequest() -> TSRequest {
+        let url = URL(pathComponents: ["v2", "accounts", "data_report"])!
+        return TSRequest(url: url, method: "GET", parameters: nil)
+    }
+}

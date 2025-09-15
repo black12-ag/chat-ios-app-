@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Munir'sがメディアファイルを再生するにはApple Musicが必要です。";
+NSCameraUsageDescription = "Munir'sはビデオ通話と写真撮影のためにカメラを利用します。";
+NSContactsUsageDescription = "Munir'sは他のユーザを探すために連絡先にアクセスします。連絡先の情報はサーバには保存されません。";
+NSFaceIDUsageDescription = "Munir'sの画面ロックはFace IDを利用します。";
+NSLocationWhenInUseUsageDescription = "Munir'sは現在地を共有するために位置情報を利用します。";
+NSMicrophoneUsageDescription = "Munir'sは音声通話と音声メッセージの録音にマイクを利用します。";
+NSPhotoLibraryAddUsageDescription = "Munir'sは写真をフォトライブラリに保存します。";
+NSPhotoLibraryUsageDescription = "Munir'sは送信する写真をフォトライブラリから選択します。";
+NSLocalNetworkUsageDescription = "Munir'sはLANを使用して、アカウントを新しい電話に直接転送できます。この機能は、あなたが明示的に操作しない限り使用されません。";

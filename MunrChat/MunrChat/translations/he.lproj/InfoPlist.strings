@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "MunrChat צריך להשתמש ב־Apple Music כדי לנגן צרופות מדיה.";
+NSCameraUsageDescription = "MunrChat משתמש במצלמה שלך כדי לצלם ועבור שיחות וידאו.";
+NSContactsUsageDescription = "MunrChat משתמש באנשי הקשר שלך כדי למצוא משתמשים שאתה מכיר. אנחנו לא מאחסנים את אנשי הקשר שלך על השרת.";
+NSFaceIDUsageDescription = "נעילת המסך של MunrChat משתמשת ב־Face ID.";
+NSLocationWhenInUseUsageDescription = "MunrChat צריך גישה אל המיקום שלך על מנת לשתף את המיקום הנוכחי שלך.";
+NSMicrophoneUsageDescription = "MunrChat צריך גישה אל המיקרופון שלך כדי לבצע ולקבל שיחות טלפון וכדי להקליט הודעות קוליות.";
+NSPhotoLibraryAddUsageDescription = "MunrChat ישמור תצלומים בסיפרייה שלך.";
+NSPhotoLibraryUsageDescription = "MunrChat ייתן לך לבחור אילו תמונות לשלוח מתוך הסיפרייה שלך.";
+NSLocalNetworkUsageDescription = "MunrChat משתמש ברשת המקומית כדי להתיר לך להעביר ישירות את חשבונך אל טלפון חדש. הרשת המקומית לא תהיה בשימוש אלא אם תבחר במפורש ליזום העברה אל מכשיר חדש.";

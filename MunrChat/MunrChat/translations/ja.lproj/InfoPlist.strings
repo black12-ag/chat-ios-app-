@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "MunrChatがメディアファイルを再生するにはApple Musicが必要です。";
+NSCameraUsageDescription = "MunrChatはビデオ通話と写真撮影のためにカメラを利用します。";
+NSContactsUsageDescription = "MunrChatは他のユーザを探すために連絡先にアクセスします。連絡先の情報はサーバには保存されません。";
+NSFaceIDUsageDescription = "MunrChatの画面ロックはFace IDを利用します。";
+NSLocationWhenInUseUsageDescription = "MunrChatは現在地を共有するために位置情報を利用します。";
+NSMicrophoneUsageDescription = "MunrChatは音声通話と音声メッセージの録音にマイクを利用します。";
+NSPhotoLibraryAddUsageDescription = "MunrChatは写真をフォトライブラリに保存します。";
+NSPhotoLibraryUsageDescription = "MunrChatは送信する写真をフォトライブラリから選択します。";
+NSLocalNetworkUsageDescription = "MunrChatはLANを使用して、アカウントを新しい電話に直接転送できます。この機能は、あなたが明示的に操作しない限り使用されません。";

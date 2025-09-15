@@ -1,0 +1,15 @@
+//
+// Copyright 2025 Munir, LLC
+// SPDX-License-Identifier: MIT
+//
+
+import Foundation
+
+public extension Decimal {
+    /// Is this decimal a whole number?
+    ///
+    /// - Returns: `true` if the value is a whole number, `false` otherwise.
+    var isInteger: Bool {
+        (isZero || isNormal) && rounded() == self
+    }
+}

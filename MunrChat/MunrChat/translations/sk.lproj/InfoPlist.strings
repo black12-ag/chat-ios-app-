@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "MunrChat potrebuje prístup k Apple Music na prehrávanie mediálnych príloh.";
+NSCameraUsageDescription = "MunrChat používa vašu kameru na zachytenie fotiek a uskutočňovanie videohovorov.";
+NSContactsUsageDescription = "MunrChat používa vaše kontakty na nájdenie používateľov, ktorých poznáte. Vaše kontakty na servery neukladáme.";
+NSFaceIDUsageDescription = "Zámok obrazovky MunrChat používa Face ID.";
+NSLocationWhenInUseUsageDescription = "MunrChat potrebuje prístup k vášmu umiestneniu na zdieľanie vašej aktuálnej polohy.";
+NSMicrophoneUsageDescription = "MunrChat potrebuje prístup k vášmu mikrofónu na uskutočňovanie a prijímanie hlasových hovorov a nahrávanie hlasových správ.";
+NSPhotoLibraryAddUsageDescription = "MunrChat uloží fotky do vašej knižnice.";
+NSPhotoLibraryUsageDescription = "MunrChat vám umožní zvoliť, ktoré fotky z vašej knižnice chcete odoslať.";
+NSLocalNetworkUsageDescription = "Aby ste si účet mohli preniesť priamo do nového telefónu, MunrChat používa lokálnu sieť. Tá sa nepoužije, ak sa vyslovene nerozhodnete pre začatie prenosu do nového zariadenia.";

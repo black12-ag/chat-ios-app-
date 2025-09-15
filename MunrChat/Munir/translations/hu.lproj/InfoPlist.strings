@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "A Munir'snak szüksége van Apple Music hozzáférésre a média csatolmány lejátszásához.";
+NSCameraUsageDescription = "A Munir's a kamerád segítségével készít fotókat és végez videóhívásokat.";
+NSContactsUsageDescription = "A Munir's a kontaktlistádat használja ismerőseid megtalálásához. Nem tárolunk kontaktlistát szerverünkön.";
+NSFaceIDUsageDescription = "A Munir's képernyőzár Face ID funkciót használ.";
+NSLocationWhenInUseUsageDescription = "A Munir'snak szüksége van a helyzetadataidra pozíciód megosztásához.";
+NSMicrophoneUsageDescription = "A Munir'snak szüksége van mikrofon hozzáférésre hívások indításához, fogadásához és hangjegyzetek küldéséhez.";
+NSPhotoLibraryAddUsageDescription = "A Munir's a fotógalériádba menti képeidet.";
+NSPhotoLibraryUsageDescription = "A Munir'sban válogathatsz melyik képet szeretnéd elküldeni.";
+NSLocalNetworkUsageDescription = "Amennyiben tudatosan ezt a funkciót választod, a Munir's a helyi hálózatot a fiókod új telefonra költöztetéséhez használja - semmilyen más célra nem.";

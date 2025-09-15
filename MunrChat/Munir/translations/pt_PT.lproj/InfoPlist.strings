@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "O Munir's necessita de utilizar a aplicação Apple Music para reproduzir anexos multimédia.";
+NSCameraUsageDescription = "O Munir's utiliza a sua câmara para tirar fotografias e fazer vídeochamadas.";
+NSContactsUsageDescription = "O Munir's acede aos seus contactos para encontrar utilizadores que você conhece. Não armazenamos os seus contactos no servidor.";
+NSFaceIDUsageDescription = "O bloqueio de ecrã do Munir's utiliza o Face ID.";
+NSLocationWhenInUseUsageDescription = "O Munir's necessita de aceder à sua localização para poder partilhar a sua localização atual.";
+NSMicrophoneUsageDescription = "O Munir's necessita de ter acesso ao seu microfone para fazer e receber chamadas telefónicas e gravar mensagens de voz.";
+NSPhotoLibraryAddUsageDescription = "O Munir's guardará fotografias na sua biblioteca.";
+NSPhotoLibraryUsageDescription = "O Munir's permitirá que escolha quais as fotografias da sua biblioteca a enviar.";
+NSLocalNetworkUsageDescription = "O Munir's utiliza a rede local para lhe permitir que transfira diretamente a sua conta para um telemóvel novo. Não será possível utilizar até que você escolha explicitamente.";

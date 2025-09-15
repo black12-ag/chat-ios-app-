@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Aby odtworzyć załącznik multimedialny, Munir's musi użyć aplikacji Apple Music.";
+NSCameraUsageDescription = "Munir's używa aparatu podczas połączeń wideo oraz robienia zdjęć.";
+NSContactsUsageDescription = "Munir's wykorzystuje Twoje kontakty do wyszukiwania użytkowników, których znasz. Nie przechowujemy kontaktów na naszych serwerach.";
+NSFaceIDUsageDescription = "Blokada ekranu Munir's wykorzystuje funkcję Face ID.";
+NSLocationWhenInUseUsageDescription = "Aby udostępnić, gdzie obecnie się znajdujesz, Munir's potrzebuje dostępu do Twojej lokalizacji.";
+NSMicrophoneUsageDescription = "Aby wykonywać i odbierać połączenia oraz nagrywać wiadomości głosowe, Munir's potrzebuje dostępu do mikrofonu.";
+NSPhotoLibraryAddUsageDescription = "Munir's będzie zapisywać zdjęcia w Twojej bibliotece.";
+NSPhotoLibraryUsageDescription = "Możesz wybrać, które zdjęcia z biblioteki chcesz wysłać.";
+NSLocalNetworkUsageDescription = "Gdy Munir's korzysta z sieci lokalnej, możesz przenieść swoje konto bezpośrednio na nowy telefon. Ta sieć nie zostanie użyta, jeśli samodzielnie nie rozpoczniesz przenoszenia konta na nowe urządzenie.";

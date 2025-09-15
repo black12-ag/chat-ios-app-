@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Munir's potrebuje prístup k Apple Music na prehrávanie mediálnych príloh.";
+NSCameraUsageDescription = "Munir's používa vašu kameru na zachytenie fotiek a uskutočňovanie videohovorov.";
+NSContactsUsageDescription = "Munir's používa vaše kontakty na nájdenie používateľov, ktorých poznáte. Vaše kontakty na servery neukladáme.";
+NSFaceIDUsageDescription = "Zámok obrazovky Munir's používa Face ID.";
+NSLocationWhenInUseUsageDescription = "Munir's potrebuje prístup k vášmu umiestneniu na zdieľanie vašej aktuálnej polohy.";
+NSMicrophoneUsageDescription = "Munir's potrebuje prístup k vášmu mikrofónu na uskutočňovanie a prijímanie hlasových hovorov a nahrávanie hlasových správ.";
+NSPhotoLibraryAddUsageDescription = "Munir's uloží fotky do vašej knižnice.";
+NSPhotoLibraryUsageDescription = "Munir's vám umožní zvoliť, ktoré fotky z vašej knižnice chcete odoslať.";
+NSLocalNetworkUsageDescription = "Aby ste si účet mohli preniesť priamo do nového telefónu, Munir's používa lokálnu sieť. Tá sa nepoužije, ak sa vyslovene nerozhodnete pre začatie prenosu do nového zariadenia.";

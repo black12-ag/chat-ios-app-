@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Munir's ۋاسىتە قوشۇمچىسىنى قويۇشتا Apple Music نى ئىشلىتىشى لازىم.";
+NSCameraUsageDescription = "‫Munir's سۈرەت تارتىش ۋە سىنلىق پاراڭلىشىشتا كامېرايىڭىزنى ئىشلىتىدۇ.";
+NSContactsUsageDescription = "Munir's سىز تونۇيدىغانلارنى ئىزدەش ئۈچۈن ئالاقىداشلىرىڭىزنى ئىشلىتىدۇ. ئالاقىداشلىرىڭىزنى مۇلازىمېتىردا ساقلىمايمىز.";
+NSFaceIDUsageDescription = "Munir's نىڭ ئېكران قۇلۇپى چىراي ID سىنى ئىشلىتىدۇ.";
+NSLocationWhenInUseUsageDescription = "‫Munir's ھازىرقى ئورنىڭىزنى ھەمبەھىرلەش ئۈچۈن ئورۇن ئۇچۇرىڭىزنى زىيارەت قىلىشى لازىم.";
+NSMicrophoneUsageDescription = "‫Munir's تېلېفوندىن چاقىرىش ۋە قوبۇل قىلىش، ھەم ئۈن ئۈچۇرنى خاتىرىلەش ئۈچۈن مىكروفونىڭىزنى زىيارەت قىلىشى لازىم.";
+NSPhotoLibraryAddUsageDescription = "Munir's سۈرەتلەرنى سۈرەتدانىڭىزغا ساقلايدۇ.";
+NSPhotoLibraryUsageDescription = "ھەمبەھىرلەيدىغان سۈرەتنى Munir's سۈرەتدانىڭىزدىن تاللاتقۇزىدۇ.";
+NSLocalNetworkUsageDescription = "Munir's يەرلىك تورنى ئىشلىتىپ ھېساباتىڭىزنى بىۋاسىتە يېڭى تېلېفونغا يۆتكىشىڭىزگە يول قويىدۇ. پەقەت سىز يۆتكەشنى قوزغاتقاندىلا ئاندىن Munir's بۇ ھوقۇقنى ئىشلىتىپ يېڭى ئۈسكۈنىگە يۆتكەيدۇ.";

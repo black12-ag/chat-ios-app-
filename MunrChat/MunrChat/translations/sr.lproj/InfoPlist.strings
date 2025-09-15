@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "MunrChat користи Apple Music за пуштање медија из прилога.";
+NSCameraUsageDescription = "MunrChat користи вашу камеру за снимање фотографија и за видео позиве.";
+NSContactsUsageDescription = "MunrChat користи ваше контакте да пронађе људе које познајете. Ваше контакте не складиштимо на серверу.";
+NSFaceIDUsageDescription = "MunrChat-ово закључавање екрана користи Face ID.";
+NSLocationWhenInUseUsageDescription = "MunrChat-у је потребан приступ вашој локацији да бисте могли да поделите тренутну локацију.";
+NSMicrophoneUsageDescription = "MunrChat-у је потребан приступ микрофону за позиве и снимање гласовних порука.";
+NSPhotoLibraryAddUsageDescription = "MunrChat ће сачувати слике у вашој галерији.";
+NSPhotoLibraryUsageDescription = "MunrChat вам омогућава избор слика за слање из ваше галерије.";
+NSLocalNetworkUsageDescription = "MunrChat користи локалну мрежу да би вам омогућио да директно пребаците налог на нови телефон. Неће се користити осим ако изричито не одлучите да започнете пренос на нови уређај.";

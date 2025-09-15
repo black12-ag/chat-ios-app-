@@ -1,0 +1,103 @@
+# Gemfile.lock for MunrChat iOS Project - Generated 2025
+# This lock file ensures consistent gem versions across development environments
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    CFPropertyList (3.0.7)
+      base64
+      nkf
+      rexml
+    activesupport (7.1.5)
+      base64
+      bigdecimal
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      connection_pool (>= 2.2.5)
+      drb
+      i18n (>= 1.6, < 2)
+      minitest (>= 5.1)
+      tzinfo (~> 2.0)
+    anbt-sql-formatter (0.1.0)
+    atomos (0.1.3)
+    claide (1.1.0)
+    cocoapods (1.15.2)
+      addressable (~> 2.8)
+      claide (>= 1.0.2, < 2.0)
+      cocoapods-core (= 1.15.2)
+      cocoapods-downloader (>= 1.6.0, < 2.0)
+      cocoapods-plugins (>= 1.0.0, < 2.0)
+      cocoapods-search (>= 1.0.0, < 2.0)
+      cocoapods-trunk (>= 1.6.0, < 2.0)
+      colored2 (~> 3.1)
+      escape (~> 0.0.4)
+      fourflusher (>= 2.3.0, < 3.0)
+      molinillo (~> 0.8.0)
+      nap (~> 1.0)
+      ruby-macho (>= 2.3.0, < 3.0)
+      xcodeproj (>= 1.23.0, < 2.0)
+    cocoapods-core (1.15.2)
+      activesupport (>= 5.0, < 8)
+      addressable (~> 2.8)
+      algoliasearch (~> 1.0)
+      concurrent-ruby (~> 1.1)
+      fuzzy_match (~> 2.0.4)
+      nap (~> 1.0)
+      netrc (~> 0.11)
+      public_suffix (~> 4.0)
+      typhoeus (~> 1.0)
+    fastlane (2.225.0)
+      CFPropertyList (>= 2.3, < 4.0.0)
+      addressable (>= 2.8, < 3.0.0)
+      artifactory (~> 3.0)
+      aws-sdk-s3 (~> 1.0)
+      babosa (>= 1.0.3, < 2.0.0)
+      bundler (>= 1.12.0, < 3.0.0)
+      colored
+      commander (~> 4.6)
+      dotenv (>= 2.1.1, < 3.0.0)
+      emoji_regex (>= 0.1, < 4.0)
+      excon (>= 0.71.0, < 1.0.0)
+      faraday (~> 1.0)
+      faraday-cookie_jar (~> 0.0.6)
+      faraday_middleware (~> 1.0)
+      fastimage (>= 2.1.0, < 3.0.0)
+      gh_inspector (>= 1.1.2, < 2.0.0)
+      google-apis-androidpublisher_v3 (~> 0.3)
+      google-apis-playcustomapp_v1 (~> 0.1)
+      google-cloud-storage (~> 1.31)
+      highline (~> 2.0)
+      json (< 3.0.0)
+      jwt (>= 2.1.0, < 3)
+      mini_magick (>= 4.9.4, < 5.0.0)
+      multipart-post (>= 2.0.0, < 3.0.0)
+      naturally (~> 2.2)
+      optparse (>= 0.1.1)
+      plist (>= 3.1.0, < 4.0.0)
+      rubyzip (>= 2.0.0, < 3.0.0)
+      security (= 0.1.5)
+      simctl (~> 1.6.3)
+      terminal-notifier (>= 2.0.0, < 3.0.0)
+      terminal-table (~> 3)
+      tty-screen (>= 0.6.3, < 1.0.0)
+      tty-spinner (>= 0.8.0, < 1.0.0)
+      word_wrap (~> 1.0.0)
+      xcodeproj (>= 1.13.0, < 2.0.0)
+      xcpretty (~> 0.3.0)
+      xcpretty-travis-formatter (>= 0.0.3)
+    xcode-install (2.8.1)
+      claide (>= 0.9.1)
+      spaceship (>= 1.76.0)
+
+PLATFORMS
+  arm64-darwin-22
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  anbt-sql-formatter
+  cocoapods
+  fastlane
+  xcode-install
+
+BUNDLED WITH
+   2.5.23

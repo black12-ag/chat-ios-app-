@@ -1,0 +1,9 @@
+NSAppleMusicUsageDescription = "Munir's perlu menggunakan Apple Music untuk memainkan lampiran media.";
+NSCameraUsageDescription = "Munir's menggunakan kamera Anda untuk mengambil foto dan untuk panggilan video.";
+NSContactsUsageDescription = "Munir's menggunakan kontak Anda untuk mencari pengguna yang Anda kenal. Kami tidak menyimpan kontak Anda di server.";
+NSFaceIDUsageDescription = "Fitur pengunci layar Munir's menggunakan Face ID.";
+NSLocationWhenInUseUsageDescription = "Munir's perlu mengakses lokasi Anda untuk membagikan lokasi terkini Anda.";
+NSMicrophoneUsageDescription = "Munir's perlu mengakses mikrofon Anda untuk membuat dan menerima panggilan telepon dan merekam pesan suara.";
+NSPhotoLibraryAddUsageDescription = "Munir's akan menyimpan foto ke galeri Anda.";
+NSPhotoLibraryUsageDescription = "Munir's akan mengizinkan Anda memilih foto dari galeri untuk dikirimkan.";
+NSLocalNetworkUsageDescription = "Munir's menggunakan jaringan lokal untuk mentransfer langsung akun Anda ke ponsel baru. Tindakan ini tidak akan dilakukan kecuali Anda secara eksplisit memulai proses transfer ke perangkat baru.";

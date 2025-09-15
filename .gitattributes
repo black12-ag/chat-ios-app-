@@ -1,0 +1,54 @@
+# iOS Project Git Attributes - Updated 2025
+
+# Localization files
+*.strings diff=localizablestrings
+*.stringsdict diff=localizablestrings
+
+# Xcode project files
+*.pbxproj merge=union
+
+# Swift and Objective-C files
+*.swift diff=swift
+*.h linguist-language=Objective-C
+*.m linguist-language=Objective-C
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.flv binary
+*.fla binary
+*.swf binary
+*.gz binary
+*.zip binary
+*.7z binary
+*.ttf binary
+*.eot binary
+*.woff binary
+*.woff2 binary
+*.otf binary
+
+# Text files should always have LF line endings
+* text=auto
+*.txt text
+*.md text
+*.yml text
+*.yaml text
+*.json text
+*.xml text
+*.plist text
+*.swift text
+*.h text
+*.m text
+*.mm text
+*.c text
+*.cpp text
+*.cc text
+*.cxx text
+*.sh text eol=lf
